@@ -6,7 +6,7 @@
 <h2>Project Execution</h2>
 <h3>Step 1: Clone the Repository</h3>
 <p>Clone this repository to your local machine using:</p>
-<p>git clone https://github.com/yourusername/spam-email-classification.git  
+<p>git clone https://github.com/indrasensingh823/Spam-Email-Classification-using-NLP-and-Machine-Learning.git  
 </p>
 <h2>Step 2: Install Required Libraries</h2>
 <p>Install the required Python libraries by running:</p>
